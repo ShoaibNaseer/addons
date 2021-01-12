@@ -5,7 +5,7 @@
         Generic tag integration with account addon
     """,
 
-    'author': "Center of Research and Development",
+    'author': "Center of Rdasdasdasesearch and Development",
     'website': "https://crnd.pro",
 
     'category': 'Generic Tags',
